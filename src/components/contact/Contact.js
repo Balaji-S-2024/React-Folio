@@ -1,4 +1,4 @@
-// import React from 'react';
+import React from 'react';
 import {Element} from 'react-scroll';
 import {IconButton} from '@material-ui/core';
 import {LinkedIn, Facebook, Instagram, Email, GitHub} from '@material-ui/icons';

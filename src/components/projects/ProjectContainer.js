@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import {Element} from 'react-scroll'
 import Project from './project/Project'
 import django_ecommerce from '../../assets/images/django_ecommerce.png'
