@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import {Element} from 'react-scroll';
 import AboutContent from './aboutcontent/AboutContent'
 import './AboutContainer.css'

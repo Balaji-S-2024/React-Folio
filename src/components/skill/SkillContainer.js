@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import {Element} from 'react-scroll'
 import LinearProgress from '@material-ui/core/LinearProgress'
 import '../skill/SkillContainer.css'
